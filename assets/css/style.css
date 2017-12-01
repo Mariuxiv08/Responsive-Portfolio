@@ -1,0 +1,184 @@
+/*Css for entire body*/
+* {
+    margin: 0;
+}
+
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.entire{
+	max-width: auto;
+	margin: auto;
+	background-image: url("../images/dust_scratches.png");
+}
+/*Header css*/
+.title{
+	background-color: #D93935;
+	max-width: 205px;
+	text-align: center;
+	font-size: 180%;
+	color: white;
+	padding: 22px 80px;
+	float: left;
+	margin-left: 60px;
+
+}
+.header{
+	width: 100%;
+	padding: 22px 80px;
+}
+.navbar{
+	position: relative;
+	margin-top: 1%;
+    margin-right: 38%;
+}
+.menu-item1{
+	display: inline-block;
+	float: right;
+	padding-left: 2%;
+}
+.menu-item2{
+	display: inline-block;
+	float: right;
+	padding-left: 2%;
+}
+.menu-item3{
+	display: inline-block;
+	float: right;
+	padding-left: 2%;
+}
+/*About me - main*/
+.main{
+	max-width: 960px;
+	margin-top: 3%;
+}
+.middle{
+	clear: both;
+	background-color: white;
+	height: 500px;
+	width: 650px;
+	float: left;
+	margin-left: 60px;
+}
+.profilepic{
+	max-height: 35%;
+	margin-right: 2%;
+	margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    float: left;
+}
+h2{
+	padding-top: 2%;
+	padding-left: 5%;
+	font-size: 35;
+	color: #D93935;
+}
+.text{
+	position: relative;
+	margin-top: 2%;
+	margin-right: 2%;
+	margin-left: 2%;
+	line-height: 150%;
+
+}
+/*Connect box*/
+h3{
+	padding-top: 2%;
+	font-size: 25;
+	text-align: center;
+	color: #D93935;
+}
+.connect{
+	background-color: white;
+	width: 270px;
+	height: 230px;
+	float: right;
+	margin-right: -60px;
+	text-align: center;
+	padding-top: 2%;
+}
+.logo1{
+	max-width: 25%;
+	max-height: 25%;
+	border-radius: 50%;
+	margin-top: 60px;
+}
+.logo2{
+	max-width: 25%;
+	max-height: 25%;
+	border-radius: 50%;
+	margin-top: 60px;
+}
+
+.logo3{
+	max-width: 25%;
+	max-height: 25%;
+	border-radius: 50%;
+	margin-top: 60px;
+}
+/*form*/
+.formtitle{
+	text-align: left;
+    margin-left: 4%;
+    font-size: 15px;
+}
+.name{
+	width: 94%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 3%;
+    margin-top: -2%;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    box-sizing: border-box;
+}
+.email{
+	width: 94%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 3%;
+    margin-top: -2%;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    box-sizing: border-box;
+}
+.message{
+	 width: 94%;
+    height: 150px;
+    padding: 12px 20px;
+    margin-left: 3%;
+    margin-top: -2%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+.button{
+	display: inline-block;
+    border-radius: 4px;
+    background-color: #D93935;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 16px;
+    padding: 12px;
+    width: 107px;
+    cursor: pointer;
+    margin: 5px;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+/*footer*/
+.footer{
+	clear: both;
+	background-color: #D93935;
+	color: white;
+	padding: 22px 80px;
+	width: auto;
+	text-align: center;
+}
