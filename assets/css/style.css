@@ -20,7 +20,6 @@ body{
 	color: white;
 	padding: 22px 80px;
 	float: left;
-	margin-left: 60px;
 
 }
 .header{
@@ -30,7 +29,7 @@ body{
 .navbar{
 	position: relative;
 	margin-top: 1%;
-    margin-right: 38%;
+    margin-right: 20%;
 }
 .menu-item1{
 	display: inline-block;
@@ -58,7 +57,6 @@ body{
 	height: 500px;
 	width: 650px;
 	float: left;
-	margin-left: 60px;
 }
 .profilepic{
 	max-height: 35%;
@@ -78,7 +76,7 @@ h2{
 	position: relative;
 	margin-top: 2%;
 	margin-right: 2%;
-	margin-left: 2%;
+	margin-left: 5%;
 	line-height: 150%;
 
 }
@@ -94,9 +92,8 @@ h3{
 	width: 270px;
 	height: 230px;
 	float: right;
-	margin-right: -60px;
 	text-align: center;
-	padding-top: 2%;
+
 }
 .logo1{
 	max-width: 25%;
